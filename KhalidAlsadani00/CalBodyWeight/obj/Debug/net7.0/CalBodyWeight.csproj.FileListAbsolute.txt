@@ -1,0 +1,15 @@
+d:\UnitTestingSoftWare\CalBodyWeight\bin\Debug\net7.0\CalBodyWeight.exe
+d:\UnitTestingSoftWare\CalBodyWeight\bin\Debug\net7.0\CalBodyWeight.deps.json
+d:\UnitTestingSoftWare\CalBodyWeight\bin\Debug\net7.0\CalBodyWeight.runtimeconfig.json
+d:\UnitTestingSoftWare\CalBodyWeight\bin\Debug\net7.0\CalBodyWeight.dll
+d:\UnitTestingSoftWare\CalBodyWeight\bin\Debug\net7.0\CalBodyWeight.pdb
+d:\UnitTestingSoftWare\CalBodyWeight\obj\Debug\net7.0\CalBodyWeight.csproj.AssemblyReference.cache
+d:\UnitTestingSoftWare\CalBodyWeight\obj\Debug\net7.0\CalBodyWeight.GeneratedMSBuildEditorConfig.editorconfig
+d:\UnitTestingSoftWare\CalBodyWeight\obj\Debug\net7.0\CalBodyWeight.AssemblyInfoInputs.cache
+d:\UnitTestingSoftWare\CalBodyWeight\obj\Debug\net7.0\CalBodyWeight.AssemblyInfo.cs
+d:\UnitTestingSoftWare\CalBodyWeight\obj\Debug\net7.0\CalBodyWeight.csproj.CoreCompileInputs.cache
+d:\UnitTestingSoftWare\CalBodyWeight\obj\Debug\net7.0\CalBodyWeight.dll
+d:\UnitTestingSoftWare\CalBodyWeight\obj\Debug\net7.0\refint\CalBodyWeight.dll
+d:\UnitTestingSoftWare\CalBodyWeight\obj\Debug\net7.0\CalBodyWeight.pdb
+d:\UnitTestingSoftWare\CalBodyWeight\obj\Debug\net7.0\CalBodyWeight.genruntimeconfig.cache
+d:\UnitTestingSoftWare\CalBodyWeight\obj\Debug\net7.0\ref\CalBodyWeight.dll
